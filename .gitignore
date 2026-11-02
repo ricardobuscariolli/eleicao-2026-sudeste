@@ -1,0 +1,6 @@
+dados_tse/
+*.zip
+.Rhistory
+.RData
+.Rproj.user/
+info_rodada.txt
